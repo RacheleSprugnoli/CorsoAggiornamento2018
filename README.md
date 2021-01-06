@@ -1,6 +1,6 @@
 # Slide Corso Aggiornamento Docenti
 
-Presentazioni del corso di aggiornamento per docenti delle scuole secondarie superiori tenuto per la Provincia Autonoma di Bolzano nel settembre 2018.
+Presentazioni del corso di aggiornamento per docenti delle scuole secondarie superiori tenuto per la Provincia Autonoma di Bolzano nel settembre 2018. Il corso è stato tenuto insieme a [Sara Tonelli](https://dh.fbk.eu/author/sara/).
 
 Quattro parti
 - Introduzione alle Digital Humanities
